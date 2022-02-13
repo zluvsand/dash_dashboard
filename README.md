@@ -1,1 +1,1 @@
-# Sample dashboards with dash
+# 📊 Sample dashboards with dash 📊
