@@ -112,7 +112,7 @@ app.layout = html.Div([
                 daq.BooleanSwitch(id='sort_toggle', className='toggle', color="#FFBD59", on=True),
                 html.Br(),
                 html.Label("Number of records", className='other-labels'), 
-                dcc.Slider(id='n-slider', min=5, max=20, step=5, value=10, 
+                dcc.Slider(id='n-slider', min=5, max=20, step=1, value=10, 
                            marks=create_slider_marks([5, 10, 15, 20])),
                 html.Br()
             ], id='table-side'),
