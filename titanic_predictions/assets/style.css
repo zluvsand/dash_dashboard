@@ -37,7 +37,7 @@ p {
   overflow: hidden;
 }
 #left-container {
-  height: 852px;
+  height: 937px;
   width: 320px;
   background-color:#3BA27A;  
   float: left;
@@ -49,18 +49,18 @@ p {
 #visualisation {
   margin-top: 30px;
   width: 100%; overflow: hidden;
-  height: 330px;
+  height: 430px;
 }
 #histogram {
-  width: 600px; 
-  height: 330px;
+  width: 700px; 
+  height: 430px;
   margin-left: 35px;
   float: left; 
 }
 #barplot {
-  width: 600px; 
-  height: 330px;
-  margin-left: 720px;
+  width: 700px; 
+  height: 430px;
+  margin-left: 800px;
   margin-right: 20px;
 }
 #data-extract {
